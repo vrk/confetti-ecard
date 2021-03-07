@@ -1,3 +1,3 @@
 # confetti-ecard
 
-Just a quick dump of the code on my codepen here: https://codepen.io/bee-arcade/pen/RjJGMz
+Click the cone to see some confetti: https://vrk.github.io/confetti-ecard/index.html
